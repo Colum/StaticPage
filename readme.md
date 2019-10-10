@@ -1,0 +1,1 @@
+This project contains a static html file with some assets. To run, open  index.html file with a browser.
